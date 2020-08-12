@@ -1,7 +1,7 @@
 # FamilyHub-Prototype
 Website for a mock up prototype app called FamilyHub, for keeping track of your family and important documents. The prototype and website were developed for my digital media innovation capstone course. 
 
-![](img/thumbnail.png =250x250)
+<img src="img/thumbnail.jpg" width="200"/>
 
 ## Built With
 * HTML
