@@ -7,3 +7,6 @@ Website for a mock up prototype app called FamilyHub, for keeping track of your 
 * CSS
 * Bootstrap
 * Adobe XD - for app mockups
+
+## Live Demo
+* (Visit the site on my portfolio here)[http://familyhub.jakeruff.com/]
