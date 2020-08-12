@@ -9,4 +9,4 @@ Website for a mock up prototype app called FamilyHub, for keeping track of your 
 * Adobe XD - for app mockups
 
 ## Live Demo
-* (Visit the site on my portfolio here)[http://familyhub.jakeruff.com/]
+* [Visit the site on my portfolio here](http://familyhub.jakeruff.com/)
